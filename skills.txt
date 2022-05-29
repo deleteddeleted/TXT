@@ -1,0 +1,6 @@
+1)Terminal
+2)GitBash
+3)API
+4)Postman
+5)Test case
+

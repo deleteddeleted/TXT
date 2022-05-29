@@ -1,0 +1,6 @@
+1)Favorite_movie - The Book Thief
+2)Favorite_TV_series - 13 Reasons Why
+3)Favorite_food - pizza
+4)Favorite_seasons - summer
+5)Country - Norway
+
