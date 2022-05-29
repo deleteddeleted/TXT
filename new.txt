@@ -1,0 +1,5 @@
+1)name Nastya
+2)surname Vinogradova
+3)Age 25
+4)Pets 1
+5)salary 250000
